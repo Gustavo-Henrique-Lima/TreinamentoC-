@@ -1,0 +1,15 @@
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\bin\Debug\net7.0\FirstProgram.exe
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\bin\Debug\net7.0\FirstProgram.deps.json
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\bin\Debug\net7.0\FirstProgram.runtimeconfig.json
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\bin\Debug\net7.0\FirstProgram.dll
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\bin\Debug\net7.0\FirstProgram.pdb
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.csproj.AssemblyReference.cache
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.AssemblyInfoInputs.cache
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.AssemblyInfo.cs
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.csproj.CoreCompileInputs.cache
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.dll
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\refint\FirstProgram.dll
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.pdb
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\FirstProgram.genruntimeconfig.cache
+D:\EstudoC\PrimeiroCodigoC#\FirstProgram\obj\Debug\net7.0\ref\FirstProgram.dll
