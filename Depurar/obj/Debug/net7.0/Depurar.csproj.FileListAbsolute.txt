@@ -1,0 +1,15 @@
+D:\EstudoC\Depurar\bin\Debug\net7.0\Depurar.exe
+D:\EstudoC\Depurar\bin\Debug\net7.0\Depurar.deps.json
+D:\EstudoC\Depurar\bin\Debug\net7.0\Depurar.runtimeconfig.json
+D:\EstudoC\Depurar\bin\Debug\net7.0\Depurar.dll
+D:\EstudoC\Depurar\bin\Debug\net7.0\Depurar.pdb
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.csproj.AssemblyReference.cache
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.AssemblyInfoInputs.cache
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.AssemblyInfo.cs
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.csproj.CoreCompileInputs.cache
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.dll
+D:\EstudoC\Depurar\obj\Debug\net7.0\refint\Depurar.dll
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.pdb
+D:\EstudoC\Depurar\obj\Debug\net7.0\Depurar.genruntimeconfig.cache
+D:\EstudoC\Depurar\obj\Debug\net7.0\ref\Depurar.dll
