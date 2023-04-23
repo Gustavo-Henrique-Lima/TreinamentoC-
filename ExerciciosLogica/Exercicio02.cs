@@ -1,3 +1,4 @@
+/*
 namespace ExerciciosLogica
 {
     class Exercicio02
@@ -9,4 +10,4 @@ namespace ExerciciosLogica
           Console.WriteLine("Seja bem-vindo "+nome);
         }
     }
-}
+}*/
