@@ -1,0 +1,15 @@
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.csproj.AssemblyReference.cache
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.AssemblyInfoInputs.cache
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.AssemblyInfo.cs
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.csproj.CoreCompileInputs.cache
+D:\EstudoC\ExerciciosLogica\bin\Debug\net7.0\ExerciciosLogica.exe
+D:\EstudoC\ExerciciosLogica\bin\Debug\net7.0\ExerciciosLogica.deps.json
+D:\EstudoC\ExerciciosLogica\bin\Debug\net7.0\ExerciciosLogica.runtimeconfig.json
+D:\EstudoC\ExerciciosLogica\bin\Debug\net7.0\ExerciciosLogica.dll
+D:\EstudoC\ExerciciosLogica\bin\Debug\net7.0\ExerciciosLogica.pdb
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.dll
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\refint\ExerciciosLogica.dll
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.pdb
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ExerciciosLogica.genruntimeconfig.cache
+D:\EstudoC\ExerciciosLogica\obj\Debug\net7.0\ref\ExerciciosLogica.dll
