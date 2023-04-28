@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gusta\\.nuget\\packages\\": {}
+    "/home/gustavo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EstudoC\\ExerciciosLogica\\ExerciciosLogica.csproj",
+      "projectUniqueName": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj",
       "projectName": "ExerciciosLogica",
-      "projectPath": "D:\\EstudoC\\ExerciciosLogica\\ExerciciosLogica.csproj",
-      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "D:\\EstudoC\\ExerciciosLogica\\obj\\",
+      "projectPath": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj",
+      "packagesPath": "/home/gustavo/.nuget/packages/",
+      "outputPath": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/gustavo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

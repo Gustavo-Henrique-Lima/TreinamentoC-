@@ -1,4 +1,4 @@
-
+/*
 namespace ExerciciosLogica
 {
     class Exercicio03
@@ -51,4 +51,4 @@ namespace ExerciciosLogica
           }
         }
     }
-}
+}*/
