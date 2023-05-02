@@ -1,7 +1,7 @@
 /*
 namespace ExerciciosLogica
 {
-    class Exercicio03
+    class Exercicio05
     {
         static void Main(string[]args)
         {
