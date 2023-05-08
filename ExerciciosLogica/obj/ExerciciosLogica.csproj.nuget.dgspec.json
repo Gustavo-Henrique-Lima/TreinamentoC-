@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj": {}
+    "D:\\EstudoC#\\ExerciciosLogica\\ExerciciosLogica.csproj": {}
   },
   "projects": {
-    "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj": {
+    "D:\\EstudoC#\\ExerciciosLogica\\ExerciciosLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj",
+        "projectUniqueName": "D:\\EstudoC#\\ExerciciosLogica\\ExerciciosLogica.csproj",
         "projectName": "ExerciciosLogica",
-        "projectPath": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/ExerciciosLogica.csproj",
-        "packagesPath": "/home/gustavo/.nuget/packages/",
-        "outputPath": "/home/gustavo/Documentos/TreinamentoC#/ExerciciosLogica/obj/",
+        "projectPath": "D:\\EstudoC#\\ExerciciosLogica\\ExerciciosLogica.csproj",
+        "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+        "outputPath": "D:\\EstudoC#\\ExerciciosLogica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/gustavo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
